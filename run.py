@@ -9,4 +9,3 @@ system.info("一般")
 system.error("錯誤")
 system.critical("critical")
 system.disable_system()
-
